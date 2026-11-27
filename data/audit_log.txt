@@ -1,0 +1,2 @@
+[2026-11-27 15:17:10] SYSTEM INIT: 3 floors x 12 spots initialized.
+[2026-11-27 15:17:14] STATE SAVED: Serialized lot state to data/parking_state.ser
